@@ -27,7 +27,7 @@ else
 
 }
 
-std::cout<<"Of those two numbers, the biggest is:"<<biggestnum;
+std::cout<<"Of those two numbers, the biggest is: "<<biggestnum;
   //print out the variable representing the biggest number;
 
 
