@@ -1,4 +1,4 @@
-//Author:
+//Eric Perez
 #include<iostream>
 
 int main()
